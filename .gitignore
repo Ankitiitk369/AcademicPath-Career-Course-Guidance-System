@@ -50,6 +50,12 @@ wheels/
 .installed.cfg
 *.egg
 
+# Personal Interview Preparation & Study Guides (Do not push to GitHub)
+interview_master_guide.md
+technical_deep_dive_guide.md
+AcademicPath_Technical_Deep_Dive_Guide.pdf
+AcademicPath_Technical_Deep_Dive_Guide.html
+
 # IDE and OS files
 .vscode/
 .idea/
