@@ -62,6 +62,10 @@ build_100_qa.py
 ANTIGRAVITY_SESSION_HISTORY.md
 save_session_history.py
 senior_architect_interview_defense_answers.md
+Senior_Architect_Interview_QnA.md
+Senior_Architect_Interview_QnA.pdf
+Senior_Architect_Interview_QnA.html
+build_architect_qna.py
 
 # IDE and OS files
 .vscode/
